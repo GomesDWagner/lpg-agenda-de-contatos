@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 //testando novamente --------------
-//wagner
+//wagner_
 typedef struct {
 		char nome[30];
 		int celular;
